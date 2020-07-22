@@ -1,9 +1,1 @@
-<iframe
-	src="https://anna4j.github.io/anna4j-demo/"
-	width="700"
-	height="394"
-	frameborder="0"
-	webkitallowfullscreen
-	mozallowfullscreen
-	allowfullscreen
-></iframe>
+<p align="center"><img width=100% src="https://github.com/anna4j/anna4j/blob/master/docs/penguin.gif"></p>
